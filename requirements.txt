@@ -1,3 +1,4 @@
 fbs==0.1.0
 PyQt5==5.10.1
 PyInstaller==3.3.1
+pyqt5-tools==5.9.0.1.2
